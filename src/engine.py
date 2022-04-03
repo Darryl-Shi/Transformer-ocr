@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 20 16:15:54 2020
-
-@author: himanshu.chaudhary
-"""
 from torch import nn
 import torch
 from torch.autograd import Variable
